@@ -28,6 +28,10 @@
 
 This project offers pre-configured [**`Prometheus-监控和告警工具`**]()，images with Flink and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
+**Architecture Design:**
+
+![](./images/img.png)
+
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
 > - RAM: 4GB or more
