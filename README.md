@@ -26,7 +26,7 @@
 7. Rich Exporter Ecosystem：Offers hundreds of official/community exporters (e.g., Node Exporter, MySQL Exporter) for infrastructure, middleware, and applications. Supports custom metric exposure and multiple data formats.
 8. Federation Capabilities：Supports hierarchical federation to aggregate data from multiple Prometheus instances into a central node, enabling large-scale distributed monitoring across regions or multi-tenant architectures.
 
-This project offers pre-configured [**`Prometheus-监控和告警工具`**](https://marketplace.huaweicloud.com/intl/hidden/contents/48c73331-f084-4a64-b3f8-565f9bfd478e)，images with Flink and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**`Prometheus-监控和告警工具`**](https://marketplace.huaweicloud.com/intl/hidden/contents/48c73331-f084-4a64-b3f8-565f9bfd478e)，images with Prometheus and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 **Architecture Design:**
 
