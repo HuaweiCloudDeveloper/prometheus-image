@@ -16,7 +16,7 @@
 ## Repository Introduction
 ‌[Prometheus‌](https://github.com/prometheus/prometheus) Prometheus is an open-source monitoring and alarm tool. It was originally developed by SoundCloud and later became a graduation project of the Cloud Native Computing Foundation (CNCF) (at the same level as Kubernetes). It is designed for cloud-native environments and is suitable for monitoring requirements of dynamic microservice architectures.
 
-**核心特性：**
+**Core Features：**
 1. Multi-dimensional Data Model：Prometheus employs a key-value-based time-series data model where each metric can be annotated with multiple labels (e.g., http_requests_total{method="POST", status="200"}), enabling granular monitoring. Its flexible PromQL query language supports multi-dimensional data aggregation, slicing, and calculations.
 2. High-performance Time-series Database (TSDB)：Features a built-in, optimized TSDB with compression and block storage mechanisms, capable of handling millions of data points per second. Data is stored in time-partitioned chunks with a default 15-day retention period (configurable), ideal for high-frequency monitoring scenarios.
 3. Dynamic Service Discovery：Natively integrates with Kubernetes, Consul, AWS, and other service discovery mechanisms to automatically detect topology changes. For example, in Kubernetes environments, it auto-discovers Pods and Services without manual target management.
