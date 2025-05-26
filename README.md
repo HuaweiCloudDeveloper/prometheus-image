@@ -44,7 +44,7 @@ This project offers pre-configured [**`Prometheus-Monitoring and Alarming Tool`*
 
 | Image Version | Description | Notes |
 | --- | --- | --- |
-| [Prometheus3.3.0-arm-v1.0]() | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
+| [Prometheus3.3.0-arm-v1.0](https://github.com/HuaweiCloudDeveloper/prometheus-image/tree/Prometheus3.3.0-arm-v1.0?tab=readme-ov-file) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
 - Submit an [issue](https://github.com/HuaweiCloudDeveloper/Prometheus-image/issues)
