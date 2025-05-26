@@ -47,7 +47,7 @@ This project offers pre-configured [**`Prometheus-监控和告警工具`**](http
 | [Prometheus3.3.0-arm-v1.0]() | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  |
 
 ## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/Flink-image/issues)
+- Submit an [issue](https://github.com/HuaweiCloudDeveloper/Prometheus-image/issues)
 - Contact Huawei Cloud Marketplace product support
 
 ## How to Contribute
