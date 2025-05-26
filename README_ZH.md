@@ -47,7 +47,7 @@
 | [Prometheus3.3.0-arm-v1.0]() | 基于鲲鹏服务器 + Huawei Cloud EulerOD 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
-- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/Flink-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
+- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/Prometheus-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
 - 其他开源镜像可看 [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## 如何贡献
