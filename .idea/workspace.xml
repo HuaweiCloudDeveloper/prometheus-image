@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76cfceac-6ff8-4462-acff-2cd037dc16bf" name="Changes" comment="Core Features.">
+    <list default="true" id="76cfceac-6ff8-4462-acff-2cd037dc16bf" name="Changes" comment="EulerOS.">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README_ZH.md" beforeDir="false" afterPath="$PROJECT_DIR$/README_ZH.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,8 @@
     <MESSAGE value="If resource orchestration is involved, submit the tf script." />
     <MESSAGE value="Enter the GitHub link of the image specification." />
     <MESSAGE value="Core Features." />
-    <option name="LAST_COMMIT_MESSAGE" value="Core Features." />
+    <MESSAGE value="EulerOS." />
+    <option name="LAST_COMMIT_MESSAGE" value="EulerOS." />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
